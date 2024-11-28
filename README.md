@@ -1,7 +1,7 @@
 # Lab Test 2
 
 
-### This lab test was compleated by:
+### This lab test was completed by:
 ####  Name: Jaskiran Gill
 #### Student ID: 101458336
 
@@ -21,9 +21,9 @@
 ![Screenshot 3](assets/4.png)
 
 ## Details
-#### - Throughout the code i have incorperated comments to make reading the code easier. 
-#### - As per the LabTest Requirements I have used API integration using the API Key i retrieved from openweathermap.org and applied useState and useEffect
-#### - For the UI/UX design I applied various fonts retrieved from Google fonts (implementation is in the pulblic/index.html file and the app.css file)
+#### - Throughout the code I have incorperated comments to make reading the code easier. 
+#### - As per the LabTest Requirements I have used API integration using the API Key I retrieved from openweathermap.org and applied useState and useEffect
+#### - For the UI/UX design I applied various fonts retrieved from Google fonts (implementation is in the public/index.html file and the app.css file)
 #### - Created a dynamic search page the updates based on the search input (shown in the screenshots Toronto and London)
 #### - Also incorporated the Displaying Data requirements as the application displays multiple weather conditions under the details heading 
 
