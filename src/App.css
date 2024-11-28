@@ -1,0 +1,104 @@
+/* This is the css file */
+body {
+  margin: 0; 
+  font-family: 'Arial', sans-serif;  
+  background: #b3d9ff; 
+}
+
+
+.app {
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
+  height: 100vh; 
+}
+
+/* This is the UI for the display-container */
+.display-container {
+  background: #cbe9f09d; 
+  border-radius: 40px; 
+  max-width: 600px; 
+  width: 90%; 
+  padding: 20px;
+  text-align: center; 
+}
+
+/* This is the UI for the search-container */
+.search-heading {
+  font-size: 15px;
+  text-align: left;
+  margin-left: 23px;
+  font-family: 'Arial', sans-serif;
+  color: rgb(68, 66, 66);
+
+}
+
+/* This is the UI for the date */
+.date-time h2 {
+  margin: 0; 
+  font-size: 30px; 
+}
+
+/* This is the UI for the time, used google fonts */
+.date-time p {
+  font-family: 'Londrina Shadow';
+  font-size: 25px; 
+  text-align: center;
+  font-weight: bold; 
+}
+
+/* This is the UI for the user input in the search boxx */
+input {
+  width: 90%; 
+  padding: 10px;
+  margin-bottom: 20px; 
+  border: 1px solid lightgray; 
+  border-radius: 17px; 
+  font-size: 15px; 
+}
+
+/* This is the UI for the lightgray semi transparent container for the current weather */
+.weather-info {
+  background: #585a5a88; 
+  color: white; 
+  padding: 20px; 
+  border-radius: 15px; 
+  margin: 10px 0; 
+}
+
+/* This is the UI for the Temperature */
+.weather-info h1 {
+  font-size: 100px; 
+  margin: 0; 
+}
+
+/* This is the UI for weather condition p */
+.weather-info p {
+  margin: 10px 0; 
+}
+
+/* This is the UI for the detains, adding margin */
+.detail-info {
+  margin-top: 10px; 
+}
+
+/* This is the UI for the Title used google fonts */
+.title {
+  font-family: 'Acme', sans-serif;
+  text-align: center;
+  font-size: 70px;
+  margin-bottom: 10px;
+}
+
+/* This is the UI for the details, adding margin */
+.detail-heading h3 {
+  margin-bottom: 10px;
+}
+
+/* This is the UI for the list under detail heading */
+.detail-list {
+  margin: 5px 0; 
+  font-size: 14px; 
+  color: rgb(68, 66, 66); 
+}
+
